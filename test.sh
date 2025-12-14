@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "new bug-fix branch and merge and webhook"
+echo "new bug-fix branch and merge andwebhook"
